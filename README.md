@@ -3,3 +3,4 @@ Projetos Práticos dos Cursos da B7Web
 
 # Lista de Projetos
 #### - Adivinhe o Número com JavaScript [Link](https://github.com/gustavoalvesdev/adivinhe-o-numero)
+#### - Validação de Formulários com JavaScript [Link](https://github.com/gustavoalvesdev/validacao-formularios)
